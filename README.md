@@ -2,7 +2,7 @@
 
 ## Team Members
 Kamron Rousseau 8238793855
-Adit Bansal
+Adit Bansal (USCID: 5889181225)
 
 ## Lab Question Answers
 
