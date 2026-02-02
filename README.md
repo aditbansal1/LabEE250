@@ -1,2 +1,11 @@
-# Lab2EE250
-EE250 Lab 2
+# Lab 2
+
+## Team Members
+- team member 1
+- team member 2
+
+## Lab Question Answers
+
+Answer for Question 1: 
+
+...
